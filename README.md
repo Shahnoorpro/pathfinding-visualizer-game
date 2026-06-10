@@ -67,9 +67,6 @@ pip install pygame
 python main.py
 ```
 
-## Project Documents
-
-The report and presentation are included in the `docs` folder.
 
 ## Author
 
