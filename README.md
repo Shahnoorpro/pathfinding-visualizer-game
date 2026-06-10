@@ -1,4 +1,8 @@
 # A* Pathfinding Visualizer Game
+## Demo
+
+![Pathfinding Visualizer Demo](assets/project-demo-gif
+.gif)
 
 An interactive pathfinding visualizer built with Python and Pygame. The project demonstrates how the A* search algorithm finds the shortest path between a start point and an end point while avoiding obstacles.
 
